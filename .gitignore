@@ -1,0 +1,39 @@
+# Git
+.git/
+
+# Dependencies
+node_modules/
+Pods/
+.gradle/
+
+# Build outputs
+build/
+dist/
+*.apk
+*.ipa
+*.app/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Mobile specific
+.flutter/
+.dart_tool/
+android/.gradle/
+ios/Pods/
